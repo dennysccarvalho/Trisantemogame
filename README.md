@@ -1,13 +1,20 @@
-# trisametro
+# Trisantemo
 
-Repositório do projeto Trisâmetro
+Repositório do projeto Trisântemo
 
-Trisâmetro é um jogo com foco narrativo e puzzles sob a temática de empatia, fabricado no laboratório especial de informática da ETE Jornalista Cyl Gallindo para competir no desafio EDUCA-PE GameJam.
+Trisântemo é um jogo com foco narrativo e puzzles sob a temática de empatia, fabricado no laboratório especial de informática da ETE Jornalista Cyl Gallindo para competir no desafio EDUCA-PE GameJam.
 
 Desenvolvido pelos alunos:
+João Gabriel Duarte Araújo
+Tayson Joel Tavares Ferreira
+Pedro Henrique Santos Cavalcanti
+Vitor Emanuel Campos Vieira de Araujo e Silva
 
 
 
-com a orientação do Professor:
+
+
+
+om a orientação do Professor: Dennys Cavalcanti Carvalho
 
 
