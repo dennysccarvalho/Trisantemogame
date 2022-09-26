@@ -12,5 +12,5 @@ Orientação do Professor: Dennys Cavalcanti Carvalho
 
 Orientações
 
-O arquivo zipado contêm o projeto do jogo para ser abertor com o Game Maker Studio, disponível em https://gamemaker.io/pt-BR.
-A versão compilada está disponível tambem nas em executável para Windows e naversão WEB em HTML5.
+O arquivo zipado contêm o projeto do protótipo do jogo para ser aberto com o Game Maker Studio (disponível em https://gamemaker.io/pt-BR).
+A versão compilada está disponível como executável para Windows e na versão WEB em HTML5.
